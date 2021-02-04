@@ -16,6 +16,7 @@ Pode vizualizá-lo através desse link: [Board Games Quiz](https://quiz-react.ma
 Ou
 
 Se você curte um código, após clonar o projeto, rode no terminal `npm i` e para executar `npm run dev`.
+
 Ps.: Você precisa ter o [npm](https://www.npmjs.com/) instalado na sua máquina :)
 
 ## Deploy Vercel
