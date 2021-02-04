@@ -10,10 +10,13 @@ Se trata de um quiz sobre board games (tema escolhido por mim mesma), que permit
 
 ## Como rodar o projeto
 Você possui duas opções:
+
 Pode vizualizá-lo através desse link: [Board Games Quiz](https://quiz-react.mariavictoriamc.vercel.app/)
+
 Ou
+
 Se você curte um código, após clonar o projeto, rode no terminal `npm i` e para executar `npm run dev`.
-Ps.: Você precisa ter o npm instalado na sua máquina :)
+Ps.: Você precisa ter o [npm](https://www.npmjs.com/) instalado na sua máquina :)
 
 ## Deploy Vercel
 
