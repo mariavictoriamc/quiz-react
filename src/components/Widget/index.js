@@ -45,4 +45,26 @@ Widget.Content = styled.div`
   }
 `;
 
+Widget.Alternativa = styled.a`
+  outline: 0;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 300;
+  color: ${({ theme }) => theme.colors.contrastText};
+  background-color: ${({ theme }) => `${theme.colors.primary}80`};
+  padding: 7px 10px;
+  margin-bottom: 8px;
+  cursor: pointer;
+  border-radius: ${({ theme }) => theme.borderRadius};
+  transition: .25s;
+  display: block;
+  &:hover {
+    transform: translateX(10px);
+  }
+  &:hover,
+    &:focus {
+      background-color: ${({ theme }) => `${theme.colors.primary}90`};
+    }
+`;
+
 export default Widget;

@@ -1,33 +1,46 @@
 {
     "bg": "bg-board-games.jpg",
-    "title": "Quiz de Board Games",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "title": "Board Games Quiz",
+    "description": "Teste os seus conhecimentos sobre board games e vamos ver o quão nerd você é.",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://media.giphy.com/media/mX9rdkTkzhiXIFnEui/giphy.gif",
+        "title": "Board games é definido como:",
         "description": "Essa é pra aquecer",
-        "answer": 2,
+        "answer": 1,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "É tipo War",
+          "É um jogo de tabuleiro"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
-        "answer": 0,
+        "image": "https://media.giphy.com/media/3tF6utabZKGEqGnKUS/giphy.gif",
+        "title": "Os jogos podem ser baseados em:",
+        "description": "E aí?",
+        "answer": 3,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Estratégia pura",
+           "Chance",
+           "Sorte",
+           "Uma mistura de todas as opções"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/kDfxQ4hZHDZCLTB34W/giphy.gif",
+        "title": "Quantos jogadores são necessários?",
+        "description": "E aí?",
+        "answer": 3,
+        "alternatives": [
+           "Dá para jogar sozinho",
+           "Pelo menos 3",
+           "É preciso 4 ou mais jogadores",
+           "Todas as alternativas estão corretas"
         ]
       }
     ],
     "external": [
-      ""
+      "https://aluraquiz-coffee.leonardot07.vercel.app/",
+      "https://imersao-react-nextjs-git-main.matheusbronca.vercel.app/"
     ],
     "theme": {
       "colors": {
@@ -35,8 +48,8 @@
         "secondary": "#00b0ff",
         "mainBg": "#333333",
         "contrastText": "#FFFFFF",
-        "wrong": "#FF5722",
-        "success": "#4CAF50"
+        "wrong": "#d71f26",
+        "success": "#6dd71f"
       },
       "borderRadius": "4px"
     }
