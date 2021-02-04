@@ -1,6 +1,4 @@
 # Quiz React - Board Games
-![GitHub](https://img.shields.io/github/license/mariavictoriamc/quiz-react) ![GitHub Repo stars](https://img.shields.io/github/stars/mariavictoriamc/quiz-react)
-
 Este projeto foi criado durante a Imersão React Next.js da Alura.
 Se trata de um quiz sobre board games (tema escolhido por mim mesma), que permite brincar um pouco sobre os conhecimentos sobre board games e ao mesmo tempo aprender React Next.js.
 
@@ -12,15 +10,12 @@ Se trata de um quiz sobre board games (tema escolhido por mim mesma), que permit
 
 ## Como rodar o projeto
 Você possui duas opções:
-
 Pode vizualizá-lo através desse link: [Board Games Quiz](https://quiz-react.mariavictoriamc.vercel.app/)
-
-OU
-
+Ou
 Se você curte um código, após clonar o projeto, rode no terminal `npm i` e para executar `npm run dev`.
 Ps.: Você precisa ter o npm instalado na sua máquina :)
 
-## Deploy your own
+## Deploy Vercel
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
